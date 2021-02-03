@@ -1,0 +1,15 @@
+9
+caires
+mariana
+roselia
+tulio
+6
+roselia
+7
+8
+ruas
+caires
+9
+8
+11
+caires

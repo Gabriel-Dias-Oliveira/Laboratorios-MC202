@@ -1,0 +1,4 @@
+amarelo
+vermelho
+vermelho
+verde

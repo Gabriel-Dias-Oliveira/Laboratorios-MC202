@@ -1,0 +1,3 @@
+amarelo
+vermelho
+verde
